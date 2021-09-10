@@ -1,6 +1,8 @@
-# A Python Django template on Gitpod
+# A Python Django template on Gitpod, with Tabnine enabled
 
 This is a [Python Django](https://www.djangoproject.com) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+
+Please note, this project has [Tabnine](https://www.tabnine.com/)'s AI-assisted code completion configured.
 
 ## Next Steps
 
